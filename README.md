@@ -1,7 +1,7 @@
 # Basic React Note App
 
 # Description
-This is a basic note taking app using React and other dependencies such as ```material ui``` to add libraries and icons, which creates an effecient and simpler application.
+This is a basic note taking app using React and other dependencies such as ```material ui``` to add React libraries and icons to assist in adding visuals to the application. 
 
 Makes use of various concepts to create effecient code such as: 
 - complex states
